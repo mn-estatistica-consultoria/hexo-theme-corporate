@@ -6,7 +6,7 @@ menu:
   Contato: /contact/
   Sobre: /about/
 
-rss: /atom.xml
+rss: /rss2.xml
 
 # Content
 excerpt_link: Leia mais
