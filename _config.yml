@@ -13,14 +13,14 @@ excerpt_link: Leia mais
 fancybox: true # whether or not to load the fancybox library
 
 # Integrations
-disqus_shortname:
+disqus_shortname: mnestatisticaconsultoria
 google_analytics:
 swiftype_install_key:
 
 # Social
 social:
   github: https://github.com/marcionicolau
-  twitter: https://twitter.com/marcionicolau
+  twitter: https://twitter.com/mnestatistica
   facebook: https://www.facebook.com/MNConsultoriaEstatistica
   rss: atom.xml
   linkedin: https://linkedin.com/in/marcionicolau
@@ -29,8 +29,8 @@ social:
 # Miscellaneous
 color_scheme: red   # options: blue, gray, green, orange, red, turquoise
 favicon: /favicon.ico # path from root of hexo site
-twitter_widget_id: "689282980431409156" # as a string, from https://twitter.com/settings/widgets
-twitter_username: marcionicolau # twitter username without the @
+twitter_widget_id: "689487724848484352" # as a string, from https://twitter.com/settings/widgets
+twitter_username: mnestatistica # twitter username without the @
 default_author: MN Estatistica
 
 about: MN Estatística é uma consultoria estabelecida em Passo Fundo, Rio Grande do Sul. <br><br> MN Estatística foi criada em 2015, e seu foco principal é auxiliar os clientes a conhecerem melhor os seus segmentos com base em informações obtidas em pesquisas desenvolvidas a partir de metodologias científicas inovadoras.
