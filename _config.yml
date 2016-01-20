@@ -1,12 +1,12 @@
 # Header Menu
 menu:
   Home: /
-  Projetos: /projects/
+#  Projetos: /projects/
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contato: /contact/
   Sobre: /about/
 
-rss: /rss2.xml
+rss: /atom.xml
 
 # Content
 excerpt_link: Leia mais
@@ -40,5 +40,5 @@ address_1: Tranquilo Grazziotin, 297
 address_2: Cidade Nova
 address_3: Passo Fundo, Rio Grande do Sul
 skype: marcio.nicolau
-lat: -28.2395097
-long: -52.4244301
+lat: -28.2391886
+long: -52.4222794
