@@ -14,7 +14,7 @@ fancybox: true # whether or not to load the fancybox library
 
 # Integrations
 disqus_shortname: mnestatisticaconsultoria
-google_analytics:
+google_analytics: UA-72688801-1
 swiftype_install_key:
 
 # Social
