@@ -1,9 +1,9 @@
 <% if (post.categories && post.categories.length){ %>
   <div class="article-category">
     <% if (post.categories.length == 1){ %>
-    Category: 
+    Category:
     <% } %>
-    Categories:
+    Categorias:
     <%- list_categories(post.categories, {
       show_count: false,
       class: 'article-category',

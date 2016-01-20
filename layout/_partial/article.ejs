@@ -1,4 +1,4 @@
-<%- js('//google.com/jsapi') %>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <div class="row">
 <div class="col-md-9 col-sm-9 blog-posts">
 <article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %> blog-item" itemscope itemprop="blogPost">
@@ -19,6 +19,9 @@
 	<li class="hidden-xs"><i class="fa fa-tags"></i>
 	  <%- partial('post/tag') %>
 	</li>
+  <li class="hidden-xs"><i class="fa fa-font"></i><span class="post-count"><%= wordcount(post.content) %></span>
+  <li>
+  </li>
       </ul>
       <%- partial('_partial/post/category') %>
     </header>
@@ -35,7 +38,7 @@
         <%- post.content %>
       <% } %>
     </div>
-    <span class="post-count"><%= wordcount(post.content) %></span>
+
   </div>
   <% if (!index){ %>
     <%- partial('post/nav') %>
