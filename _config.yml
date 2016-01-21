@@ -3,6 +3,8 @@ menu:
   Home: /
 #  Projetos: /projects/
   Blog: /archives/ # can set archive-dir in root config to custom value
+  Serviços: /services/
+  Treinamentos: /trainning/
   Contato: /contact/
   Sobre: /about/
 
