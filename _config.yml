@@ -1,6 +1,7 @@
 # Header Menu
 menu:
   Home: /
+  Pesquisas: /pesquisas/
 #  Projetos: /projects/
   Blog: /archives/ # can set archive-dir in root config to custom value
 #  Serviços: /services/
